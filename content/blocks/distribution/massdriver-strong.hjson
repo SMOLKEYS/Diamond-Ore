@@ -19,6 +19,7 @@ shake: 6
 bullet: {
   standardCopper
 }
+
 consumes: {
   power: 46.825
 }
