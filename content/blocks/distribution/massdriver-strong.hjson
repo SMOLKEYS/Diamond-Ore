@@ -17,7 +17,7 @@ knockback: 10
 translation: 14
 shake: 6
 bullet: {
-  standardCopper/60
+  "standardCopper"
 }
 
 consumes: {
