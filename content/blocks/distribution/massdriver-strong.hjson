@@ -16,6 +16,7 @@ receiveEffect: mineHuge
 knockback: 10
 translation: 14
 shake: 6
+bullet: standardCopper
 consumes: {
   power: 46.825
 }
